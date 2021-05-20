@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="FlorDeAmorAlpha.MainPage"
+             BackgroundImageSource="flores">
+
+    <StackLayout>
+        <Frame BackgroundColor="Transparent" Padding="60" CornerRadius="0" BorderColor="White">
+            <Label Text="Petálos de Amor" HorizontalTextAlignment="Center" TextColor="Black" FontSize="40"/>
+        </Frame>
+
+        <Button Text="Iniciar"  HorizontalOptions="Start"  Margin="130,100,50,50" BackgroundColor="Transparent" BorderColor="Black" TextColor="Black" CornerRadius="60" />
+        <Button Text="Créditos" HorizontalOptions="Start"  Margin="130,0,50,120" BackgroundColor="Transparent" BorderColor="Black" TextColor="Black" CornerRadius="60" />
+        <Button Text="Salir" HorizontalOptions="Start"  Margin="0,0,50,50" BackgroundColor="Transparent" BorderColor="Black" TextColor="Black" CornerRadius="60" />
+
+
+    </StackLayout>
+
+</ContentPage>

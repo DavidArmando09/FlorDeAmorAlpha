@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlorDeAmorAlpha.Android", "FlorDeAmorAlpha.Android\FlorDeAmorAlpha.Android.csproj", "{7F7E77AC-3AB1-4518-BDD9-DFB6CF84257A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlorDeAmorAlpha", "FlorDeAmorAlpha\FlorDeAmorAlpha.csproj", "{F2731CAD-0A97-4872-BC59-F934EA68079D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7F7E77AC-3AB1-4518-BDD9-DFB6CF84257A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F7E77AC-3AB1-4518-BDD9-DFB6CF84257A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F7E77AC-3AB1-4518-BDD9-DFB6CF84257A}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{7F7E77AC-3AB1-4518-BDD9-DFB6CF84257A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F7E77AC-3AB1-4518-BDD9-DFB6CF84257A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F7E77AC-3AB1-4518-BDD9-DFB6CF84257A}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{F2731CAD-0A97-4872-BC59-F934EA68079D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2731CAD-0A97-4872-BC59-F934EA68079D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2731CAD-0A97-4872-BC59-F934EA68079D}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{F2731CAD-0A97-4872-BC59-F934EA68079D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2731CAD-0A97-4872-BC59-F934EA68079D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2731CAD-0A97-4872-BC59-F934EA68079D}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4A5A7AD3-16C4-4B81-A0A2-5DBA951EC0AF}
+	EndGlobalSection
+EndGlobal
